@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+body {
+    padding-top: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F8F8F8;
+    background-color: #B5E0FE;
+}
+
+.img {
+width: 100%;
+}
+
+.carousel-inner {
+    width: 100%;
+}
+
+span{
+    color: #000;
+}
+
+
