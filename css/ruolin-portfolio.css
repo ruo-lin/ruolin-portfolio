@@ -6,7 +6,6 @@
 }
 
 body {
-
     text-align: center;
     display: flex;
     align-items: center;
@@ -16,7 +15,6 @@ body {
 }
 
 #carouselExampleDark {
-
     margin-top: 0; 
 }
 
@@ -33,3 +31,4 @@ img {
     position: fixed;
     bottom: 0px;
 }
+
