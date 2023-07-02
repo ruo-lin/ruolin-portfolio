@@ -6,7 +6,7 @@
 }
 
 body {
-    margin-top: 0;
+
     text-align: center;
     display: flex;
     align-items: center;
@@ -15,16 +15,21 @@ body {
     /* background-color: #B5E0FE; */
 }
 
+#carouselExampleDark {
+
+    margin-top: 0; 
+}
+
 img {
-width: 100%;
+    width: 100%;
 }
 
-#carouselExampleDark{
-    margin-top: -48px;
-
-}
-
-.carousel-indicators{
+.carousel-control-prev,.carousel-control-next{
     position: fixed;
-   bottom: 0px;
+    bottom: 45px;
+}
+
+.carouselExampleDark{
+    position: fixed;
+    bottom: 0px;
 }
