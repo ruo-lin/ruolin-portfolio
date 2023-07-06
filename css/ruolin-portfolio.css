@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #F8F8F8;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -13,10 +12,12 @@ body {
     justify-content: center;
     background-color: #F8F8F8;
     /* background-color: #B5E0FE; */
+    overflow: hidden;
 }
 
 #carouselExampleDark {
-    margin-top: 5%;
+    margin-top: 3%;
+    margin-bottom: auto;
 }
 
 img {
